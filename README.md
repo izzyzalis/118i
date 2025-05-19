@@ -49,8 +49,6 @@ There are three key components of the system:
 
 The app was built with public transparency in mind and can easily be expanded in the future to include more cities, alert systems, or live database/API integration.
 
-## See Our Demo Video  
-[![Watch the video](demovid_icon.png)](https://www.youtube.com/watch?v=8WYtjIdxLEk)
 
 <!-- Optional screenshots or live demo links can go here -->
 
