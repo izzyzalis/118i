@@ -3,7 +3,7 @@
 <!--
 ![GitHub Logo](/aquaanalyzer_logo.png)
 -->
-![Alt Text](/aquaanalyzer_icon.png)
+![Aqua Analyzers Logo](aqua_logo.png)
 
 ##
 
