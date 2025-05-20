@@ -50,7 +50,9 @@ There are three key components of the system:
 The app was built with public transparency in mind and can easily be expanded in the future to include more cities, alert systems, or live database/API integration.
 
 
-## 🎥 Watch the Demo
+## 🎥 Watch the Demo and feel free to click the link to our website! 
+
+https://aqua-analyzer.streamlit.app/
 
 [![Watch the demo](https://img.youtube.com/vi/-TwspHdb45I/maxresdefault.jpg)](https://youtu.be/-TwspHdb45I)
 
